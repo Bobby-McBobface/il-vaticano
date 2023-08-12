@@ -1,0 +1,11 @@
+[package]
+name = "ilvaticano"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pgn-reader = "0.25.0"
+shakmaty = "0.26.0"
+zstd = "0.12.4"
